@@ -1,0 +1,2 @@
+﻿test.obj : error LNK2005: main 已经在 lmy.obj 中定义
+D:\c语言学习\lmy_10_14\x64\Debug\lmy_10_14.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
